@@ -56,3 +56,7 @@ Smart Inventory Prediction uses AI and machine learning to:
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
+
+### Quick Start
+
+1. **Clone the repository**
